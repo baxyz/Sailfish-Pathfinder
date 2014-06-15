@@ -19,12 +19,16 @@ SOURCES += src/Pathfinder.cpp
 OTHER_FILES += qml/Pathfinder.qml \
     qml/cover/CoverPage.qml \
     qml/pages/FirstPage.qml \
-    qml/pages/SecondPage.qml \
     rpm/Pathfinder.changes.in \
     rpm/Pathfinder.spec \
     rpm/Pathfinder.yaml \
     translations/*.ts \
-    Pathfinder.desktop
+    Pathfinder.desktop \
+    qml/pages/Home.qml \
+    qml/images/Pathfinder-logo.png \
+    qml/pages/SpellsPriest.qml \
+    qml/pages/Spells.qml \
+    qml/data/sorts-de-pretres.xml
 
 # to disable building translations every time, comment out the
 # following CONFIG line

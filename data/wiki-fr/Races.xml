@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<wikiPage>
+  <title>Les races des personnages</title>
+  <categories><category>Pathfinder-RPG.Race</category></categories>
+  <lastModified>2010-07-18 21:39:21Z</lastModified>
+  <version>4</version>
+  <inLinks><link>Pathfinder-RPG.race</link><link>Pathfinder-RPG.Caractéristiques</link><link>Pathfinder-RPG.Compétences</link><link>Pathfinder-RPG.Créer des PNJ</link><link>Pathfinder-RPG.Créer un personnage</link><link>Pathfinder-RPG.dons raciaux</link><link>Pathfinder-RPG.Exploration</link><link>Pathfinder-RPG.Format de description des compétences</link><link>Pathfinder-RPG.Linguistique</link><link>Pathfinder-RPG.MainPage</link><link>Pathfinder-RPG.Rencontres</link><link>Pathfinder-RPG.Tableau récapitulatif des dons</link><link>Pathfinder-RPG.Utilisation dObjets Magiques</link><link>Pathfinder-RPG.Valeurs de combat</link></inLinks>
+  <outLinks><link>Pathfinder-RPG.Demi-elfe</link><link>Pathfinder-RPG.Demi-orque</link><link>Pathfinder-RPG.Elfe</link><link>Pathfinder-RPG.Gnome</link><link>Pathfinder-RPG.Halfelin</link><link>Pathfinder-RPG.Humain</link><link>Pathfinder-RPG.Nain</link></outLinks>
+  <body><![CDATA[
+Il existe sept races standard sur Pathfinder-RPG :
+&lt;ul&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Demi-Elfe.html&quot; title=&quot;Les demi-elfes&quot;&gt;les demi-elfes&lt;/a&gt;,&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Demi-Orque.html&quot; title=&quot;Les demi-orques&quot;&gt;les demi-orques&lt;/a&gt;,&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Elfe.html&quot; title=&quot;Les elfes&quot;&gt;les elfes&lt;/a&gt;,&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Gnome.html&quot; title=&quot;Les gnomes&quot;&gt;les gnomes&lt;/a&gt;,&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Halfelin.html&quot; title=&quot;Les halfelins&quot;&gt;les halfelins&lt;/a&gt;,&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Humain.html&quot; title=&quot;Les humains&quot;&gt;les humains&lt;/a&gt; et&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;pagelink&quot; href=&quot;Nain.html&quot; title=&quot;Les nains&quot;&gt;les nains&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+]]></body>
+  <raw><![CDATA[{s:MenuRaces}
+Il existe sept races standard sur Pathfinder-RPG :
+* [[Demi-elfe|les demi-elfes]],
+* [[Demi-orque|les demi-orques]],
+* [[Elfe|les elfes]],
+* [[Gnome|les gnomes]],
+* [[Halfelin|les halfelins]],
+* [[Humain|les humains]] et
+* [[Nain|les nains]].]]></raw>
+  <fullName>Pathfinder-RPG.Races</fullName>
+</wikiPage>

@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<refactored>
+        <spells label="Sorts de prêtre">
+                <spelllist level="0" label="oraisons">
+                        <spell level="0" page="Assistance divine" description="+1 sur un jet d’attaque, un jet de sauvegarde ou un test de compétence."/>
+                        <spell level="0" page="Création deau" label="Création d’eau" description="Crée huit litres d’eau pure/niveau."/>
+                        <spell level="0" page="Détection de la magie" description="Détecte sorts et objets magiques à 18 m à la ronde."/>
+                        <spell level="0" page="Détection du poison" description="Détecte le poison chez une créature ou un objet."/>
+                        <spell level="0" page="Étincelles" book="APG" description="Met le feu à des objets inflammables."/>
+                        <spell level="0" page="Lecture de la magie" description="Permet de lire parchemins et livres de sorts."/>
+                        <spell level="0" page="Lumière" description="Fait briller un objet comme une torche."/>
+                        <spell level="0" page="Purification de nourriture et deau" label="Purification de nourriture et d’eau" description="Purifie 30 dm³/niveau de nourriture et d’eau."/>
+                        <spell level="0" page="Réparation" description="Répare sommairement un objet."/>
+                        <spell level="0" page="sort Résistance" label="Résistance" description="Confère +1 aux jets de sauvegarde."/>
+                        <spell level="0" page="sort Saignement" label="Saignement" description="Une créature stabilisée agonise à nouveau."/>
+                        <spell level="0" page="Stabilisation" description="Stabilise une créature agonisante."/>
+                        <spell level="0" page="Stimulant" description="Confère 1 pv temporaire à la cible."/>
+                </spelllist>
+                <spelllist level="1">
+                        <spell level="1" page="Abondance de munitions" book="UC" description="Les munitions non magiques se régénèrent à chaque round."/>
+                        <spell level="1" page="Action interdite" book="AdM" description="La cible obéit au personnage qui lui interdit de faire quelque chose."/>
+                        <spell level="1" page="Anathème" description="Inflige un malus de -2 aux jets d’attaque, aux jets de sauvegarde et aux tests."/>
+                        <spell level="1" page="Arme magique" description="Confère un bonus de +1 à une arme."/>
+                        <spell level="1" page="Bénédiction de leau" label="Bénédiction de l’eau" elements="M" description="Crée de l’eau bénite."/>
+                        <spell level="1" page="Bénédiction" description="Les alliés gagnent +1 à l’attaque et aux jets de sauvegarde contre la terreur."/>
+                        <spell level="1" page="Blessure légère" description="Inflige 1d8 points de dégâts, +1/niveau (max. +5)."/>
+                        <spell level="1" page="Bouclier de la foi" description="Aura conférant un bonus de parade de +2 (ou plus)."/>
+                        <spell level="1" page="Bouclier entropique" description="Les attaques à distance ont 20 % de chances de rater le PJ."/>
+                        <spell level="1" page="Brume de dissimulation" description="Le PJ est entouré de brouillard."/>
+                        <spell level="1" page="Bulle dair" label="Bulle d’air" book="UC" description="Crée une petite poche d’air autour de la tête du personnage ou autour d’un objet."/>
+                        <spell level="1" page="Charge de fourmi" book="APG" description="Triple la capacité de charge d'une créature."/>
+                        <spell level="1" page="Compréhension des langages" description="Le PJ comprend tous les langages écrits ou parlés."/>
+                        <spell level="1" page="Connaissances du Borgne" book="UC" description="Le personnage gagne un bonus de +4 aux tests de Survie et peut suivre une piste alors qu’il se déplace au maximum de sa vitesse."/>
+                        <spell level="1" page="Connaître son ennemi" book="AdM" description="Bonus de +10 à un test de Connaissance des monstres."/>
+                        <spell level="1" page="Convocation de monstre mineur" book="AdM" description="Convoque 1d3 animaux TP."/>
+                        <spell level="1" page="Convocation de monstres I" description="Appelle une créature extraplanaire luttant pour le PJ."/>
+                        <spell level="1" page="Décomposition de cadavre" book="AdM" description="Transforme un cadavre en squelette bien propre."/>
+                        <spell level="1" page="Détection de la Loi" description="Révèle l’aura des créatures, sorts ou objets."/>
+                        <spell level="1" page="Détection des morts-vivants" description="Révèle les morts-vivants à moins de 18 m."/>
+                        <spell level="1" page="Détection du Bien" description="Révèle l’aura des créatures, sorts ou objets."/>
+                        <spell level="1" page="Détection du Chaos" description="Révèle l’aura des créatures, sorts ou objets."/>
+                        <spell level="1" page="Détection du Mal" description="Révèle l’aura des créatures, sorts ou objets."/>
+                        <spell level="1" page="Diagnostic" book="AdM" description="Détecte et identifie les maladies."/>
+                        <spell level="1" page="Dissipation de la fièvre" book="AdM" description="Supprime les conditions malade, nauséeux et fiévreux."/>
+                        <spell level="1" page="Endurance aux énergies destructives" description="Protège des environnements chauds ou froids."/>
+                        <spell level="1" page="Faveur divine" description="Confère un bonus de +1 tous les 3 niveaux aux jets d’attaque et de dégâts."/>
+                        <spell level="1" page="Frayeur" description="Une créature de 5 DV ou moins s’enfuit pendant 1d4 rounds."/>
+                        <spell level="1" page="Hostilité forcée" book="UC" description="Oblige les adversaires à attaquer le personnage au lieu de ses alliés."/>
+                        <spell level="1" page="Imprécation" description="Les adversaires subissent -1 à l’attaque et aux jets de sauvegarde contre la terreur."/>
+                        <spell level="1" page="Injonction" description="La cible obéit à un ordre d’un mot pendant 1 round."/>
+                        <spell level="1" page="Instant de gloire" book="UC" description="Double un bonus de moral."/>
+                        <spell level="1" page="Invisibilité pour les morts-vivants" description="Les morts-vivants ne voient pas les sujets (1/niveau)."/>
+                        <spell level="1" page="Lanterne dansante" book="APG" description="Anime une lanterne qui suit le personnage."/>
+                        <spell level="1" page="Malédiction de leau" label="Malédiction de l’eau" elements="M" description="Crée de l’eau maudite."/>
+                        <spell level="1" page="Métal solaire" book="UC" description="L’arme touchée émet une gerbe de flammes."/>
+                        <spell level="1" page="Ordre assassin" book="AdM" description="La cible est obligée de tuer un allié."/>
+                        <spell level="1" page="Ordre libérateur" book="UC" description="La cible fait un test d’Évasion par une action immédiate avec un bonus."/>
+                        <spell level="1" page="Perception de la mort" description="Révèle l’état de santé des créatures à 9 m à la ronde."/>
+                        <spell level="1" page="Pierre magique" description="Trois projectiles ; +1 à l’attaque, 1d6+1 points de dégâts."/>
+                        <spell level="1" page="Protection contre la Loi" description="+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l’alignement choisi."/>
+                        <spell level="1" page="Protection contre le Bien" description="+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l’alignement choisi."/>
+                        <spell level="1" page="Protection contre le Chaos" description="+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l’alignement choisi."/>
+                        <spell level="1" page="Protection contre le Mal" description="+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l’alignement choisi."/>
+                        <spell level="1" page="Rayon de fièvre" book="AdM" description="Le rayon rend la cible fiévreuse."/>
+                        <spell level="1" page="Regain dassurance" label="Regain d’assurance" description="+4 aux jets de sauvegarde contre la terreur (un sujet, +1/4 niveaux)."/>
+                        <spell level="1" page="Renforcer larmement" label="Renforcer l’armement" book="UC" description="Mitige temporairement la propriété fragile d’une arme ou d’une armure."/>
+                        <spell level="1" page="Restauration de cadavre" book="AdM" description="La chair recouvre un squelette."/>
+                        <spell level="1" page="Sanctification de cadavre" book="AdM" description="Empêche un cadavre de devenir mort-vivant."/>
+                        <spell level="1" page="Sanctuaire" description="Les adversaires ne peuvent pas attaquer le PJ, et inversement."/>
+                        <spell level="1" page="Soins légers" description="Rend 1d8 pv au sujet, +1/niveau (max. +5)."/>
+                </spelllist>
+                <spelllist level="2">
+                        <spell level="2" page="Abri de toile" label="Abri de toile" book="AdM" description="Crée un abri confortable en toile d'araignée."/>
+                        <spell level="2" page="Aide" label="Aide" description="+1 aux jets d’attaque et de sauvegarde contre la terreur, 1d8 pv temporaires, +1/niveau (max. +10)."/>
+                        <spell level="2" page="Alignement indétectable" label="Alignement indétectable" description="Masque l’alignement pendant 24 heures."/>
+                        <spell level="2" page="Allié compatissant" label="Allié compatissant" book="AdM" description="La cible est obligée d'aider un allié blessé."/>
+                        <spell level="2" page="Animation des morts mineure" label="Animation des morts mineure" book="AdM" description="Crée un squelette ou un zombi."/>
+                        <spell level="2" page="Apaisement des émotions" label="Apaisement des émotions" description="Calme des créatures."/>
+                        <spell level="2" page="Arme alignée" label="Arme alignée" description="Une arme devient bonne, chaotique, loyale ou mauvaise."/>
+                        <spell level="2" page="Arme boomerang" label="Arme boomerang" book="UC" description="Donne la propriété boomerang à une arme."/>
+                        <spell level="2" page="Arme merveilleuse" label="Arme merveilleuse" book="APG" description="L'arme gagne +2 aux jets de dégâts."/>
+                        <spell level="2" page="Arme spirituelle" label="Arme spirituelle" description="Arme magique attaquant d’elle-même."/>
+                        <spell level="2" page="Armure instantanée" label="Armure instantanée" book="APG" description="Convoque une armure qui remplace temporaire l'équipement actuel du personnage."/>
+                        <spell level="2" page="Armure sans effort" label="Armure sans effort" book="UC" description="L’armure du personnage ne réduit plus sa vitesse de déplacement."/>
+                        <spell level="2" page="Augure" label="Augure" elements="F, M" description="Révèle si une action aura de bonnes conséquences ou non."/>
+                        <spell level="2" page="Bénédiction de vie et de courage" label="Bénédiction de vie et de courage" book="APG" description="+2 aux jets de sauvegarde contre la peur et la mort."/>
+                        <spell level="2" page="Blessure modérée" label="Blessure modérée" description="Inflige 2d8 points de dégâts, +1/niveau (max. +10)."/>
+                        <spell level="2" page="Cacophonie" label="Cacophonie" description="1d8 points de dégâts de son, étourdissement possible."/>
+                        <spell level="2" page="Carreau de peur" label="Carreau de peur" book="AdM" description="Blesse et rend peut-être fiévreux les créatures Bonnes."/>
+                        <spell level="2" page="Charge de fourmi (partagé)" label="Charge de fourmi (partagé)" book="UC" description="Comme charge de fourmi mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Consécration" label="Consécration" elements="M" description="Affaiblit les morts-vivants au sein d’une zone."/>
+                        <spell level="2" page="Contact défigurant" label="Contact défigurant" book="AdM" description="La cible est défigurée."/>
+                        <spell level="2" page="Convocation de monstres II" label="Convocation de monstres II" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="2" page="Délivrance de la paralysie" label="Délivrance de la paralysie" description="Délivre de la paralysie, d’immobilisation et de lenteur."/>
+                        <spell level="2" page="Détection des pièges" label="Détection des pièges" description="Le PJ repère les pièges comme un roublard."/>
+                        <spell level="2" page="Discours captivant" label="Discours captivant" description="Captive à 30 m (+ 3 m/niveau) à la ronde."/>
+                        <spell level="2" page="Éclat du chaos" label="Éclat du chaos" book="AdM" description="Blesse et ralenti peut-être les créatures Loyales."/>
+                        <spell level="2" page="Endurance aux énergies destructives (partagé)" label="Endurance aux énergies destructives (partagé)" book="UC" description="Comme endurance aux énergies destructives mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Endurance de lours" label="Endurance de l’ours" description="Confère +4 en Con pendant 1 minute/niveau."/>
+                        <spell level="2" page="Engin de siège magique" label="Engin de siège magique" book="UC" description="L’engin de siège gagne un bonus de +1 aux jets de visée et de dégâts."/>
+                        <spell level="2" page="Fardeau de loracle" label="Fardeau de l'oracle" book="Oracles uniquement)''''(APG" description="La créature est affectée par les effets négatifs de la malédiction de l'oracle."/>
+                        <spell level="2" page="Flèche de loi" label="Flèche de loi" book="AdM" description="Blesse et hébète peut-être les créatures Chaotiques."/>
+                        <spell level="2" page="Force de taureau" label="Force de taureau" description="Confère +4 en Force pendant 1 minute/niveau."/>
+                        <spell level="2" page="Fracassement" label="Fracassement" description="Endommage objets ou créatures cristallines."/>
+                        <spell level="2" page="Grâce (sort)" label="Grâce" book="APG" description="Les mouvements ne provoquent pas d'attaque d'opportunité."/>
+                        <spell level="2" page="Immobilisation de personne" label="Immobilisation de personne" description="Immobilise une personne pendant 1 round/niveau."/>
+                        <spell level="2" page="Imprégner daura" label="Imprégner d'aura" book="AdM" description="La cible imite l'aura du prêtre."/>
+                        <spell level="2" page="Instrument dagonie" label="Instrument d’agonie" book="UC" description="L’arme émet une fureur divine qui donne un bonus aux tests d’Intimidation."/>
+                        <spell level="2" page="Lance de pureté" label="Lance de pureté" book="AdM" description=" Blesse et aveugle peut-être les créatures mauvaises."/>
+                        <spell level="2" page="Main vagabonde" label="Main vagabonde" book="UC" description="Le personnage peut prendre un objet ou le manipuler de loin."/>
+                        <spell level="2" page="Mise à mort" label="Mise à mort" description="Achève une créature mourante ; le PJ gagne temporairement 1d8 pv, +2 en Force et +1 niveau de lanceur de sorts."/>
+                        <spell level="2" page="Partage de la langue" label="Partage de la langue" book="APG" description="Le sujet comprend une langue choisie."/>
+                        <spell level="2" page="Pénombre protectrice" label="Pénombre protectrice" book="AdM" description="L'ombre protège la cible contre la lumière."/>
+                        <spell level="2" page="Préservation des morts" label="Préservation des morts" description="Préserve un cadavre."/>
+                        <spell level="2" page="Profanation" label="Profanation" elements="M" description="Rend les morts-vivants plus forts au sein d’une zone."/>
+                        <spell level="2" page="Protection contre la Loi (partagé)" label="Protection contre la Loi (partagé)" book="UC" description="Comme  protection contre la Loi mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Protection contre le Bien (partagé)" label="Protection contre le Bien (partagé)" book="UC" description="Comme  protection contre le Bien mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Protection contre le Chaos (partagé)" label="Protection contre le Chaos (partagé)" book="UC" description="Comme  protection contre le Chaos mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Protection contre le Mal (partagé)" label="Protection contre le Mal (partagé)" book="UC" description="Comme  protection contre le Mal mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Protection dautrui" label="Protection d’autrui" elements="F" description="Le PJ subit 1/2 dégâts à la place du sujet."/>
+                        <spell level="2" page="Ralentissement du poison" label="Ralentissement du poison" description="Neutralise le poison pendant 1 heure/niveau."/>
+                        <spell level="2" page="Rapport" label="Rapport" description="Indique où se trouvent les alliés et quel est leur état."/>
+                        <spell level="2" page="Renforcer larmement (partagé)" label="Renforcer l’armement (partagé)" book="UC" description="Comme  renforcer l’armement mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="2" page="Réparation intégrale" label="Réparation intégrale" description="Répare totalement un objet."/>
+                        <spell level="2" page="Requiem pour les fantômes" label="Requiem pour les fantômes" book="APG" description="Les créatures intangibles reçoivent la moitié des dégâts des armes non magiques."/>
+                        <spell level="2" page="Résistance aux énergies destructives" label="Résistance aux énergies destructives" description="Protège contre la forme d’énergie choisie à raison de 10 (ou plus) points de dégâts/attaque."/>
+                        <spell level="2" page="Restauration partielle" label="Restauration partielle" description="Dissipe effets magiques affaiblissants ou rend 1d4 points de caractéristique perdus."/>
+                        <spell level="2" page="Retardement de la douleur" label="Retardement de la douleur" book="AdM" description="Ignore la douleur pendant 1 heure/niveau."/>
+                        <spell level="2" page="Sagesse du hibou" label="Sagesse du hibou" description="Confère +4 en Sag pendant 1 minute/niveau."/>
+                        <spell level="2" page="Sang bouillant" label="Sang bouillant" book="AdM" description="La cible reçoit des dégâts de feu, les orques gagnent +2 Force."/>
+                        <spell level="2" page="Savoir manier une arme" label="Savoir manier une arme" book="UC" description="Accorde le maniement d’une arme pour une courte période."/>
+                        <spell level="2" page="Silence" label="Silence" description="Étouffe tout bruit dans un rayon de 4,50 m."/>
+                        <spell level="2" page="Soins modérés" label="Soins modérés" description="Rend 2d8 pv au sujet, +1/niveau (max. +10)."/>
+                        <spell level="2" page="Splendeur de laigle" label="Splendeur de l’aigle" description="Confère +4 en Cha pendant 1 minute/niveau."/>
+                        <spell level="2" page="Surmonter laffliction" label="Surmonter l'affliction" book="AdM" description="Supprime temporairement une condition."/>
+                        <spell level="2" page="Ténèbres" label="Ténèbres" description="Obscurité surnaturelle sur 6 m de rayon."/>
+                        <spell level="2" page="Transformation de maître" label="Transformation de maître" book="AdM" description="Transforme un objet ordinaire en objet de maître."/>
+                        <spell level="2" page="Zone de vérité" label="Zone de vérité" description="Les créatures affectées ne peuvent pas mentir."/>
+                </spelllist>
+                <spelllist level="3">
+                        <spell level="3" page="Agonie" book="AdM" description="La douleur encourage un extérieur à obéir au personnage."/>
+                        <spell level="3" page="Animation des morts" elements="M" description="Crée squelettes et zombis morts-vivants."/>
+                        <spell level="3" page="Arme boomerang (partagé)" book="UC" description="Comme arme boomerang mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="3" page="Aura darchon" label="Aura d'archon" book="AdM" description="L'aura pénalise l'attaque et la CA des ennemis."/>
+                        <spell level="3" page="Bénédiction de la taupe" book="AdM" description="1 allié/niveau gagne vision dans le noir et +2 Discrétion."/>
+                        <spell level="3" page="Biographie du sang" book="APG" description="Apprend des informations sur une créature grâce à son sang."/>
+                        <spell level="3" page="Blessure grave" description="Inflige 3d8 pts de dégâts, +1/niveau (max. +15)."/>
+                        <spell level="3" page="Cécitésurdité" label="Cécité/surdité" description="Rend la cible aveugle ou sourde."/>
+                        <spell level="3" page="Cercle magique contre la Loi" description="Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau."/>
+                        <spell level="3" page="Cercle magique contre le Bien" description="Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau."/>
+                        <spell level="3" page="Cercle magique contre le Chaos" description="Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau."/>
+                        <spell level="3" page="Cercle magique contre le Mal" description="Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau."/>
+                        <spell level="3" page="Chaîne de perdition" book="UC" description="Crée une chaîne de force flottante."/>
+                        <spell level="3" page="Communication avec les morts" description="Un cadavre répond à 1 question/2 niveaux."/>
+                        <spell level="3" page="Contagion" description="Infecte la cible."/>
+                        <spell level="3" page="Convocation de monstres III" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="3" page="Création de nourriture et deau" label="Création de nourriture et d’eau" description="Nourrit trois humains ou un cheval/niveau."/>
+                        <spell level="3" page="Délivrance des malédictions" description="Libère des malédictions."/>
+                        <spell level="3" page="Dissimulation dobjet" label="Dissimulation d’objet" description="Dissimule un objet à la scrutation."/>
+                        <spell level="3" page="Dissipation de la magie" description="Annule sorts et effets magiques."/>
+                        <spell level="3" page="Emprunt de chance" book="Oracles seulement)'' ''(APG" description="Relance une attaque ou un test mais fait pire aux deux suivants."/>
+                        <spell level="3" page="Entrer dans une image" book="APG" description="Transfère la conscience du personnage dans un objet à son effigie."/>
+                        <spell level="3" page="Façonnage de la pierre" description="Permet de modeler la pierre."/>
+                        <spell level="3" page="Férocité du blaireau" book="AdM" description="Tant que le personnage se concentre, les armes sont acérées."/>
+                        <spell level="3" page="Flamme éternelle" elements="M" description="Torche permanente ne dégageant aucune chaleur."/>
+                        <spell level="3" page="Flèche de laube" label="Flèche de l’aube" book="UC" description="Les munitions ciblées émettent une énergie radieuse."/>
+                        <spell level="3" page="Fusion dans la pierre" description="Permet d’entrer dans la pierre."/>
+                        <spell level="3" page="Glyphe de garde" elements="M" description="Inscription affectant ceux qui la touchent."/>
+                        <spell level="3" page="Guérison de la cécitésurdité" label="Guérison de la cécité/surdité" description="Soigne la cécité ou la surdité."/>
+                        <spell level="3" page="Guérison des maladies" description="Guérit tous les maux du sujet."/>
+                        <spell level="3" page="Guide" book="APG" description="Révèle la distance approximative qui sépare le personnage de l'endroit où il a lancé ce sort."/>
+                        <spell level="3" page="Juggernaut mortel" book="UC" description="La puissance du personnage augmente à chaque fois qu’il tue."/>
+                        <spell level="3" page="Langue élémentaire" book="APG" description="Permet au personnage de parler aux élémentaires et à certaines créatures."/>
+                        <spell level="3" page="Lien sacré" elements="F" book="APG" description="Lance les sorts de soins de contact de loin."/>
+                        <spell level="3" page="Localisation dobjet" label="Localisation d’objet" description="Indique la direction de l’objet cherché."/>
+                        <spell level="3" page="Lumière brûlante" description="1d8 points de dégâts/2 niveaux ; plus contre les morts-vivants."/>
+                        <spell level="3" page="Lumière du jour" description="Vive lumière sur 18 m de rayon."/>
+                        <spell level="3" page="Main du berger" description="Guide le sujet jusqu’au PJ."/>
+                        <spell level="3" page="Manteau de colère" book="APG" description="La cible gagne +1/quatre niveaux à tous les jets de sauvegarde."/>
+                        <spell level="3" page="Marche sur londe" label="Marche sur l’onde" description="Permet de marcher sur l’eau."/>
+                        <spell level="3" page="Mur de vent" description="Détourne projectiles, gaz et créatures de taille modeste."/>
+                        <spell level="3" page="Négation de linvisibilité" label="Négation de l’invisibilité" description="Dissipe l’invisibilité sur 1,50 m/niveau."/>
+                        <spell level="3" page="Panoplie magique" description="Armure ou bouclier gagne un bonus d’altération de +1/4 niveaux."/>
+                        <spell level="3" page="Partage de la langue (partagé)" book="UC" description="Comme  partage de langue mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="3" page="Prière" description="+1 pour les alliés à presque tous les jets, -1 pour les adversaires."/>
+                        <spell level="3" page="Protection contre les énergies destructives" description="Absorbe 12 points de dégâts/niveau infligés par le type d’énergie choisi."/>
+                        <spell level="3" page="Ralentissement du poison (partagé)" book="UC" description="Comme  ralentissement du poison mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="3" page="Résistance aux énergies destructives (partagé)" book="UC" description="Comme résistances aux énergies destructives mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="3" page="Respiration aquatique" description="Permet de respirer sous l’eau."/>
+                        <spell level="3" page="Sables du temps" book="AdM" description="La cible vieillit temporairement."/>
+                        <spell level="3" page="Sangsue de ki" book="AdM" description="Ajout de ki à la réserve lors d'un coup critique."/>
+                        <spell level="3" page="Sieste" elements="M" book="APG" description="Les cibles n'ont besoin que de 2 heures de sommeil au lieu d'une nuit complète et peuvent dormir plus longtemps pour bénéficier d'avantages supplémentaires."/>
+                        <spell level="3" page="Soins importants" description="Rend 3d8 pv au sujet, +1/niveau (max. +15)."/>
+                        <spell level="3" page="sort Malédiction" label="Malédiction" description="-6 à une caractéristique, -4 aux jets d’attaque, aux jets de sauvegarde et aux tests, ou 50 % de chances de perdre chaque action."/>
+                        <spell level="3" page="Symbole de guérison" book="AdM" description="La rune déclenchée soigne les créatures vivantes."/>
+                        <spell level="3" page="Ténèbres profondes" description="Ténèbres surnaturelles sur 18 m de rayon."/>
+                        <spell level="3" page="Torche révélatrice" book="UC" description="Les objets touchés émettent une vive lumière qui donne des bonus de Perception et de Psychologie."/>
+                        <spell level="3" page="Vision infernale" book="AdM" description="Un paysage infernal illusoire secoue les créatures."/>
+                </spelllist>
+                <spelllist level="4">
+                        <spell level="4" page="Adaptation planaire" book="APG" description="Résiste aux effets néfastes d'un plan."/>
+                        <spell level="4" page="Allié doutreplan" label="Allié d’outreplan" elements="M" description="Échange de services avec une créature extraplanaire à 6 DV."/>
+                        <spell level="4" page="Allié spirituel" book="APG" description="Crée un allié divin pour aider le personnage."/>
+                        <spell level="4" page="Ancre dimensionnelle" description="Empêche tout déplacement extradimensionnel."/>
+                        <spell level="4" page="Apaisement de créatures artificielles" book="AdM" description="Réduit les chances qu'une créature artificielle devienne berserk."/>
+                        <spell level="4" page="Arme magique suprême" description="Confère un bonus de +1/4 niveaux à une arme (max. +5)."/>
+                        <spell level="4" page="Aura de funeste destin" book="AdM" description="Les créatures situées dans l'aura sont secouées."/>
+                        <spell level="4" page="Bénédiction de ferveur" book="APG" description="Accorde des avantages au choix des alliés."/>
+                        <spell level="4" page="Blessure critique" description="Inflige 4d8 pts de dégâts, +1/niveau (max. +20)."/>
+                        <spell level="4" page="Châtiment sacré" description="Blesse et aveugle les créatures Mauvaises (1d8 pts de dégâts/2 niveaux)."/>
+                        <spell level="4" page="Chevaucher les vagues" book="AdM" description="La cible peut respirer sous l'eau et nager."/>
+                        <spell level="4" page="Communication à distance" description="Envoie un message quelle que soit la distance."/>
+                        <spell level="4" page="Contrôle de leau" label="Contrôle de l’eau" description="Abaisse ou élève le niveau de l’eau."/>
+                        <spell level="4" page="Contrôle des créatures convoquées" book="AdM" description="Le personnage dirige un monstre convoqué comme si c'était lui qui l'avait appelé."/>
+                        <spell level="4" page="Convocation de monstres IV" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="4" page="Courroux de lordre" label="Courroux de l’ordre" description="Blesse et étourdit les créatures Chaotiques (1d8 pts de dégâts/2 niveaux)."/>
+                        <spell level="4" page="Crachat venimeux" book="AdM" description="Crache du venin de vipère noire aveuglant."/>
+                        <spell level="4" page="Détection du mensonge" description="Révèle les mensonges délibérés."/>
+                        <spell level="4" page="Divination" elements="M" description="Donne des conseils en rapport avec une action envisagée."/>
+                        <spell level="4" page="Don des langues" description="Permet de parler toutes les langues."/>
+                        <spell level="4" page="Empoisonnement" description="Le sujet perd 1d3 points de Con/round pendant 6 rounds."/>
+                        <spell level="4" page="Frappe de la corneille sanglante" book="AdM" description="Les frappes à mains nues créent des corneilles qui infligent des dégâts de feu et d'énergie négative."/>
+                        <spell level="4" page="Immunité contre les sorts" description="Immunise le sujet contre 1 sort/4 niveaux."/>
+                        <spell level="4" page="Infestation de vers" book="AdM" description="Des vers infligent des dégâts et un affaiblissement de Dex."/>
+                        <spell level="4" page="Liberté de mouvement" description="La cible bouge normalement malgré les entraves."/>
+                        <spell level="4" page="Lien avec linvocateur" label="Lien avec l’invocateur" book="UC" description="La cible subit des dégâts à chaque fois que les créatures qu’elle a invoquées en reçoivent."/>
+                        <spell level="4" page="Marche dans les airs" description="Le sujet marche dans les airs comme sur la terre ferme."/>
+                        <spell level="4" page="Marche sur londe (partagé)" label="Marche sur l’onde (partagé)" book="UC" description="Comme  marche sur l’onde mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="4" page="Marteau du chaos" description="Blesse et ralentit les créatures Loyales (1d8 pts de dégâts/2 niveaux)."/>
+                        <spell level="4" page="Neutralisation du poison" description="Rend le poison inoffensif."/>
+                        <spell level="4" page="Porte-peste" book="AdM" description="Les attaques de la cible transmettent la fièvre des marais."/>
+                        <spell level="4" page="Présage débilitant" book="UC" description="Impose un triste destin à une créature qui voit ses dégâts réduits de moitié quand elle attaque ou lance un sort."/>
+                        <spell level="4" page="Protection contre la mort" description="Confère une immunité contre les sorts de mort et les effets d’énergie négative."/>
+                        <spell level="4" page="Protection contre les énergies destructives (partagé)" book="UC" description="Comme protection contre les énergies destructives mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="4" page="Puissance divine" description="Bonus à l’attaque et +1 pv/niveau."/>
+                        <spell level="4" page="Réceptacle de loracle" label="Réceptacle de l'oracle" book="oracles seulement)'' ''(AdM" description="La cible bénéficie des avantages de la malédiction de l'oracle."/>
+                        <spell level="4" page="Renvoi" description="Force une créature à repartir dans son plan d’origine."/>
+                        <spell level="4" page="Repos éternel" elements="M" book="APG" description="Impossible de ramener la créature morte à la vie."/>
+                        <spell level="4" page="Répulsif" description="Les insectes, araignées et autres vermines restent à 3 m du PJ."/>
+                        <spell level="4" page="Restauration" elements="M" description="Rend niveaux et points de caractéristique perdus."/>
+                        <spell level="4" page="Soins intensifs" description="Rend 4d8 pv au sujet, +1/niveau (max. +20)."/>
+                        <spell level="4" page="Symbole de lenteur" book="AdM" description="Déclenche une rune qui ralentit les créatures."/>
+                        <spell level="4" page="Symbole de révélation" book="AdM" description="Déclenche un symbole qui révèle les illusions."/>
+                        <spell level="4" page="Ténèbres maudites" description="Blesse les créatures Bonnes (1d8 pts de dégâts/2 niveaux) et les rend malades."/>
+                        <spell level="4" page="Terrible remord" book="AdM" description="La créature est obligée de se blesser."/>
+                        <spell level="4" page="Transfert de sorts" description="Transfère des sorts du PJ au sujet."/>
+                        <spell level="4" page="Vermine géante" description="Transforme les insectes en vermine géante."/>
+                </spelllist>
+                <spelllist level="5">
+                        <spell level="5" page="Action interdite supérieure" book="AdM" description="Comme  action interdite mais 1 créature/niveau."/>
+                        <spell level="5" page="Annulation denchantement" label="Annulation d’enchantement" description="Libère la cible des enchantements, des altérations, des malédictions et de la pétrification."/>
+                        <spell level="5" page="Arme destructrice" description="Une arme de corps à corps détruit les morts-vivants."/>
+                        <spell level="5" page="Bâton serpent" book="APG" description="Transforme un bâton ou un autre objet de bois en serpents qui combattent pour le personnage."/>
+                        <spell level="5" page="Blessure légère de groupe" description="Inflige 1d8 points de dégâts +1/niveau à une créature/niveau."/>
+                        <spell level="5" page="Broderie" elements="M" book="APG" description="Les objets en tissu s'ornent de broderies."/>
+                        <spell level="5" page="Bulle de vie" book="APG" description="Protège les créatures contre l'environnement."/>
+                        <spell level="5" page="Changement de plan" elements="F" description="Permet de changer de plan (8 sujets max.)."/>
+                        <spell level="5" page="Colonne de feu" description="Feu divin (1d6 points de dégâts/niveau)."/>
+                        <spell level="5" page="Communion" elements="M" description="Le dieu du PJ répond par oui ou non à une question/niveau."/>
+                        <spell level="5" page="Contagion supérieure" book="AdM" description="Infecte une cible avec une maladie magique."/>
+                        <spell level="5" page="Convocation de monstres V" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="5" page="Don des langues (partagé)" book="UC" description="Comme don des langues mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="5" page="Engin de siège magique supérieur" book="UC" description="L’engin de siège gagne un bonus de +1 aux jets de visée et de dégâts par tranche de quatre niveaux de lanceur de sorts."/>
+                        <spell level="5" page="Exécution" description="Attaque de contact qui inflige 12d6 points de dégâts +1 pts par niveau."/>
+                        <spell level="5" page="Fléau dinsectes" label="Fléau d’insectes" description="Nuée de criquets attaquant des créatures."/>
+                        <spell level="5" page="Force du colosse" description="Accroît la taille du PJ et lui confère des bonus au combat."/>
+                        <spell level="5" page="Glace bénie" book="AdM" description="Crée un mur ou des javelots d'eau bénie gelée."/>
+                        <spell level="5" page="Glace maudite" book="AdM" description="Crée un mur ou des javelots d'eau maudite gelée."/>
+                        <spell level="5" page="Immunité contre les sorts (partagé)" book="UC" description="Comme  immunité contre les sorts mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="5" page="Injonction suprême" description="Comme injonction, mais affecte un sujet/niveau."/>
+                        <spell level="5" page="Malédiction de négation magique" book="AdM" description="La cible est affectée par la plaie magique de négation."/>
+                        <spell level="5" page="Malédiction majeure" book="AdM" description="Comme malédiction mais plus difficile à dissiper."/>
+                        <spell level="5" page="Marche dans les airs (partagé)" book="UC" description="Comme marche dans les airs mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="5" page="Marque de la justice" description="Définit une condition maudissant la cible."/>
+                        <spell level="5" page="Mur de pierre" description="Crée un mur qui peut être façonné."/>
+                        <spell level="5" page="Pénitence" elements="F, M" description="Permet au sujet d’expier ses fautes."/>
+                        <spell level="5" page="Pilier de vie" book="APG" description="Les piliers créés soignent 2d8 +1/niveau (max +20)."/>
+                        <spell level="5" page="Projection astrale mineure" book="AdM" description="Déplacements astraux limités."/>
+                        <spell level="5" page="Purification" book="APG" description="Soigne 4d8 points de dégâts +1/niveau (max +25) et dissipe plusieurs afflictions."/>
+                        <spell level="5" page="Rappel à la vie" description="Ressuscite quelqu’un mort depuis 1 jour/niveau max."/>
+                        <spell level="5" page="Rejet de la Loi" description="Bonus de +4 contre les attaques."/>
+                        <spell level="5" page="Rejet du Bien" description="Bonus de +4 contre les attaques."/>
+                        <spell level="5" page="Rejet du Chaos" description="Bonus de +4 contre les attaques."/>
+                        <spell level="5" page="Rejet du Mal" description="Bonus de +4 contre les attaques."/>
+                        <spell level="5" page="Réparation rapide" book="AdM" description="Les créatures artificielles gagnent guérison accélérée 5."/>
+                        <spell level="5" page="Réprobation" book="AdM" description="Les membres de la religion du personnage fuient la cible marquée."/>
+                        <spell level="5" page="Requiem pour les fantômes de groupe" book="APG" description="Comme requiem pour les fantômes mais sur plusieurs créatures."/>
+                        <spell level="5" page="Sanctification maléfique" elements="M" description="Rend un site maudit."/>
+                        <spell level="5" page="Sanctification" elements="M" description="Rend un site sacré."/>
+                        <spell level="5" page="Scrutation" elements="F" description="Permet d’espionner le sujet à distance."/>
+                        <spell level="5" page="Sérénité" book="AdM" description="Sentiment paisible qui blesse les créatures violentes."/>
+                        <spell level="5" page="Soins légers de groupe" description="Rend 1d8 pv+1/niveau à une créature/niveau."/>
+                        <spell level="5" page="sort Résistance à la magie" label="Résistance à la magie" description="Le sujet gagne une RM de 12, +1/niveau."/>
+                        <spell level="5" page="Souffle de vie" description="Soigne 5d8 pts de dégâts +1/niveau et ramène des créatures récemment décédées à la vie."/>
+                        <spell level="5" page="Symbole de douleur" elements="M" description="La rune inflige de terribles douleurs."/>
+                        <spell level="5" page="Symbole de scrutation" book="AdM" description="Déclenche une rune qui active un capteur de scrutation."/>
+                        <spell level="5" page="Symbole de sommeil" elements="M" description="La rune plonge les créatures proches dans un sommeil catatonique."/>
+                        <spell level="5" page="Symbole fatal" book="UC)'' (M). Comme symbole de mort mais occupe une case de 1,50 (M)."/>
+                        <spell level="5" page="Vents capricieux" book="AdM" description="Mur de vent qui bloque des attaques particulières."/>
+                        <spell level="5" page="Vision lucide" elements="M" description="Permet de voir les choses telles qu’elles sont."/>
+                </spelllist>
+                <spelllist level="6">
+                        <spell level="6" page="Adaptation planaire de groupe" book="APG" description="Comme adaptation planaire mais affecte des cibles multiples."/>
+                        <spell level="6" page="Allié majeur doutreplan" label="Allié majeur d’outreplan" elements="M" description="Comme allié d’outreplan, mais jusqu’à 12 DV."/>
+                        <spell level="6" page="Animation dobjets" label="Animation d’objets" description="Les objets attaquent les adversaires du PJ."/>
+                        <spell level="6" page="Annihilation de mort-vivant" elements="M" description="Détruit 1d4 DV de morts-vivants/niveau (max. 20d4)."/>
+                        <spell level="6" page="Bannissement" description="Bannit pour 2 DV/niveau de créatures extraplanaires."/>
+                        <spell level="6" page="Barrière de lames" description="Lames infligeant 1d6 points de dégâts/niveau."/>
+                        <spell level="6" page="Blessure modérée de groupe" description="Inflige 2d8 points de dégâts +1/niveau à une créature/niveau."/>
+                        <spell level="6" page="Convocation de monstres VI" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="6" page="Coquille antivie" description="Tient les créatures vivantes à distance (3 m)."/>
+                        <spell level="6" page="Création de mort-vivant" elements="M" description="Goule, blême, momie ou mohrg."/>
+                        <spell level="6" page="Dissipation suprême" description="Comme dissipation de la magie, mais affecte plusieurs cibles."/>
+                        <spell level="6" page="Endurance de lours de groupe" label="Endurance de l’ours de groupe" description="Comme endurance de l’ours, mais affecte un sujet/niveau."/>
+                        <spell level="6" page="Épidémie" book="AdM" description="Infecte un sujet avec une maladie très contagieuse."/>
+                        <spell level="6" page="Extase" book="AdM" description="Annule les émotions néfastes."/>
+                        <spell level="6" page="Festin des héros" description="Nourriture pour une créature/niveau ; confère des bonus au combat."/>
+                        <spell level="6" page="Force de taureau de groupe" description="Comme force de taureau, mais affecte un sujet/niveau."/>
+                        <spell level="6" page="Forme de poussière" book="UC" description="Le personnage devient temporairement une créature intangible faite de poussière."/>
+                        <spell level="6" page="Froide frappe de glace" book="AdM" description="Cône d'éclats de glace qui inflige 1d6 points de dégâts de froid/niveau."/>
+                        <spell level="6" page="Glyphe de garde suprême" description="Comme glyphe de garde, mais avec un sort du 6e niveau ou des dégâts de 10d8 max."/>
+                        <spell level="6" page="Guérison suprême" description="Soigne 10 points de dégâts/niveau, les maladies et les troubles mentaux."/>
+                        <spell level="6" page="Interdiction" elements="M" description="Bloque les déplacements planaires, blesse les créatures d’un alignement différent."/>
+                        <spell level="6" page="Mise à mal" description="Inflige 10 points de dégâts/niveau."/>
+                        <spell level="6" page="Mot de rappel" description="Téléporte le PJ à un endroit choisi à l’avance."/>
+                        <spell level="6" page="Orientation" description="Indique comment se rendre à l’endroit choisi."/>
+                        <spell level="6" page="Quête" description="Comme mission, mais affecte n’importe quelle créature."/>
+                        <spell level="6" page="Sagesse du hibou de groupe" description="Comme sagesse du hibou, mais affecte un sujet/niveau."/>
+                        <spell level="6" page="Soins modérés de groupe" description="Rend 2d8 pv +1/niveau à une créature/niveau."/>
+                        <spell level="6" page="Splendeur de laigle de groupe" label="Splendeur de l’aigle de groupe" description="Comme splendeur de l’aigle, mais affecte 1 sujet/niveau."/>
+                        <spell level="6" page="Symbole de persuasion" elements="M" description="La rune charme les créatures proches."/>
+                        <spell level="6" page="Symbole de sceau" book="AdM" description="Crée un mur de force à déclencheur."/>
+                        <spell level="6" page="Symbole de terreur" elements="M" description="La rune frappe les créatures proches de panique."/>
+                        <spell level="6" page="Tempête de peste" book="AdM" description="Un nuage infecte les créatures comme contagion."/>
+                        <spell level="6" page="Vent divin" description="Transforme les cibles en vapeur et les emporte rapidement."/>
+                </spelllist>
+                <spelllist level="7">
+                        <spell level="7" page="Accorder la grâce du champion" book="AdM" description="La cible gagne des pouvoirs de paladin pendant 1 round/niveau."/>
+                        <spell level="7" page="Blasphème" description="Tue, paralyse, affaiblit ou hébète les cibles non-Mauvaises."/>
+                        <spell level="7" page="Blessure importante de groupe" description="Inflige 3d8 points de dégâts +1/niveau à une créature/niveau."/>
+                        <spell level="7" page="Champ de force" description="Nul ne peut approcher du PJ."/>
+                        <spell level="7" page="Cercle de clarté" book="AdM" description="Une émanation gêne les illusions et la discrétion."/>
+                        <spell level="7" page="Contrôle du climat" description="Modifie le climat local."/>
+                        <spell level="7" page="Convocation de monstres VII" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="7" page="Création de demi-plan mineure" book="AdM" description="Création d'un demi-plan."/>
+                        <spell level="7" page="Décret" description="Tue, paralyse, ralentit ou assourdit les cibles non-Loyales."/>
+                        <spell level="7" page="sort Destruction" label="Destruction" elements="F" description="Tue la cible et détruit son corps."/>
+                        <spell level="7" page="Forme éthérée" description="Le PJ passe dans le plan Éthéré pour 1 round/niveau."/>
+                        <spell level="7" page="Parole du Chaos" description="Tue, cause la confusion, étourdit ou assourdit les cibles non-Chaotiques."/>
+                        <spell level="7" page="Parole sacrée" description="Tue, paralyse, aveugle ou assourdit les cibles non-Bonnes."/>
+                        <spell level="7" page="Présage traumatisant" book="UC" description="Le destin se montre rancunier envers une créature qui reçoit des dégâts d’électricité à chaque fois qu’elle attaque ou qu’elle lance un sort."/>
+                        <spell level="7" page="Refuge" elements="M" description="Enchante un objet pour ramener son possesseur jusqu’au PJ."/>
+                        <spell level="7" page="Régénération" description="Fait repousser les membres tranchés, rend 4d8 points de vie, +1/niveau (max. +35)."/>
+                        <spell level="7" page="Restauration suprême" elements="M" description="Comme restauration, mais rend tous les niveaux et points de caractéristique perdus."/>
+                        <spell level="7" page="Résurrection" elements="M" description="Ramène un mort à la vie."/>
+                        <spell level="7" page="Scrutation suprême" description="Comme scrutation, mais plus rapidement et plus longtemps."/>
+                        <spell level="7" page="Soins importants de groupe" description="Rend 3d8 pv +1/niveau à une créature/niveau."/>
+                        <spell level="7" page="Symbole détourdissement" label="Symbole d’étourdissement" elements="M" description="La rune étourdit les créatures proches."/>
+                        <spell level="7" page="Symbole de faiblesse" elements="M" description="La rune affaiblit les créatures proches."/>
+                        <spell level="7" page="Vagues dextase" label="Vagues d'extase" book="AdM" description="Les créatures sont étourdies et chancelantes de plaisir."/>
+                        <spell level="7" page="Voile lunaire" book="AdM" description="Dissipe la lumière et inverse les lycanthropes."/>
+                </spelllist>
+                <spelllist level="8">
+                        <spell level="8" page="Allié suprême doutreplan" label="Allié suprême d’outreplan" elements="M" description="Comme allié d’outreplan, mais jusqu’à 18 DV."/>
+                        <spell level="8" page="Appel de créature artificielle" book="AdM" description="Appelle un golem auprès du personnage."/>
+                        <spell level="8" page="Aspect terrifiant" book="UC" description="Le personnage se transforme en une version G terrifiante de lui-même et émet une aura qui secoue ou effraye les créatures."/>
+                        <spell level="8" page="Aura maudite" elements="F" description="+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Bien."/>
+                        <spell level="8" page="Aura sacrée" elements="F" description="+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Mal."/>
+                        <spell level="8" page="Blessure critique de groupe" description="Inflige 4d8 points de dégâts +1/niveau à une créature/niveau."/>
+                        <spell level="8" page="Bouclier de la Loi" elements="F" description="+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Chaos."/>
+                        <spell level="8" page="Convocation de monstres VIII" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="8" page="Création de demi-plan" book="AdM" description="Comme création de demi-plan mineure mais plus grand et avec des caractéristiques planaires."/>
+                        <spell level="8" page="Création de mort-vivant dominant" description="Ombre, âme en peine, spectre ou dévoreur."/>
+                        <spell level="8" page="Immunité contre les sorts suprême" description="Comme immunité contre les sorts, mais jusqu’au 8e niveau."/>
+                        <spell level="8" page="Localisation suprême" description="Localise précisément une créature ou un objet."/>
+                        <spell level="8" page="Manteau du Chaos" elements="F" description="+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts de la Loi."/>
+                        <spell level="8" page="Nuées dorage" label="Nuées d'orage" book="APG" description="1d8 dégâts/niveau (max 20d8) aux cibles."/>
+                        <spell level="8" page="Orbe du néant" book="AdM" description="Une sphère inflige des niveaux négatifs."/>
+                        <spell level="8" page="Réceptacle divin" book="Oracle seulement)'' ''(APG" description="Se transforme en une énorme créature d'un autre monde."/>
+                        <spell level="8" page="Soins intensifs de groupe" description="Rend 4d8 pv +1/niveau à une créature/niveau."/>
+                        <spell level="8" page="Symbole daliénation mentale" label="Symbole d’aliénation mentale" elements="M" description="La rune frappe les créatures proches de démence."/>
+                        <spell level="8" page="Symbole de mort" elements="M" description="La rune tue les créatures proches."/>
+                        <spell level="8" page="Tempête de feu" description="Inflige 1d6 points de dégâts de feu/niveau."/>
+                        <spell level="8" page="Tranquillité euphorique" book="APG" description="Rend une unique créature pacifique et amicale."/>
+                        <spell level="8" page="Tremblement de terre" description="Secousse sismique dans un rayon de 1,50 m/niveau."/>
+                        <spell level="8" page="Verrou dimensionnel" description="Téléportation et voyages interplanaires bloqués pendant 1 jour/niveau."/>
+                        <spell level="8" page="Zone dantimagie" label="Zone d’antimagie" description="Réprime toute magie à moins de 3 m."/>
+                </spelllist>
+                <spelllist level="9">
+                        <spell level="9" page="sort Absorption dénergie" label="Absorption d’énergie" description="La cible gagne 2d4 niveaux négatifs."/>
+                        <spell level="9" page="Capture dâme" label="Capture d’âme" elements="F" description="Retient l’âme d’un défunt pour empêcher sa résurrection."/>
+                        <spell level="9" page="Convocation de monstres IX" description="Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ."/>
+                        <spell level="9" page="Création de demi-plan supérieure" book="AdM" description="Comme  création de demi-plan mais plus grand et avec plus de caractéristiques planaires."/>
+                        <spell level="9" page="Guérison suprême de groupe" description="Comme guérison suprême, mais sur plusieurs sujets."/>
+                        <spell level="9" page="Immunité contre les sorts suprême (partagé)" book="UC" description="Comme immunité contre les sorts supérieure mais la durée d’effet se divise entre les créatures touchées."/>
+                        <spell level="9" page="Implosion" description="Inflige 10 pts de dégâts/niveau à une créature/round."/>
+                        <spell level="9" page="Miracle" elements="M" description="Demande l’aide du dieu."/>
+                        <spell level="9" page="Nuit polaire" book="AdM" description="De froides ténèbres paralysent les créatures et leur infligent des dégâts."/>
+                        <spell level="9" page="Passage dans léther" label="Passage dans l’éther" description="Emmène plusieurs créatures dans le plan Éthéré."/>
+                        <spell level="9" page="Phalange de bois" book="AdM" description="Crée temporairement 1d4+2 golems de bois qui se battent pour le personnage."/>
+                        <spell level="9" page="Portail" elements="M" description="Relie deux plans pour se déplacer ou appeler une entité."/>
+                        <spell level="9" page="Présence écrasante" book="AdM" description="Les créatures s'inclinent devant le personnage comme devant un dieu."/>
+                        <spell level="9" page="Projection astrale" elements="M" description="Emmène le PJ et ses compagnons dans le plan Astral."/>
+                        <spell level="9" page="Résurrection suprême" description="Comme résurrection, sans avoir besoin du corps."/>
+                        <spell level="9" page="Symbole de lutte" book="AdM" description="Déclenche une rune qui oblige une créature à attaquer."/>
+                        <spell level="9" page="Symbole de vulnérabilité" book="AdM" description="Déclenche une rune qui impose des malus temporaires."/>
+                        <spell level="9" page="Téléportation interplanétaire" book="AdM" description="Téléportation sur une autre planète."/>
+                        <spell level="9" page="Tempête vengeresse" description="Tempête mêlant acide, éclairs et grêlons."/>
+                        <spell level="9" page="Terre maudite" book="AdM" description="Les plantes meurent, les créatures vivantes tombent malades ou les créatures mortes se relèvent comme zombis."/>
+                        <spell level="9" page="Vents de la vengeance" book="APG" description="Permet de voler et d'attaquer avec le vent."/>
+                </spelllist>
+        </spells>
+</refactored>
